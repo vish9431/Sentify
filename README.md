@@ -60,7 +60,7 @@ To clone and run this application locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/nirajk24/Sentify-SIH
+   git clone https://github.com/vish9431/Sentify.git
 2. Open the project in Android Studio.
 3. Build and run the application on your Android device or emulator.
 
